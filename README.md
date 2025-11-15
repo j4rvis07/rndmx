@@ -1,5 +1,8 @@
 ## 🚀 Installation
 
+
+Run these commands in your terminal:
+
 ```bash
 cd ~
 rm -rf rndmx
