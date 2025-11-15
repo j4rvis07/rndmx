@@ -1,8 +1,4 @@
----
-
 🚀 Installation & Usage
-
-Run these commands in your terminal:
 
 cd ~
 rm -rf rndmx
@@ -11,5 +7,3 @@ cd rndmx
 chmod 777 *
 ./Stark
 
-
----
